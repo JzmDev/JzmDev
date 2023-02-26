@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm James</h1>
-<h3 align="center">A creative software developer</h3>
+<h3 align="center">A creative Flutter Developer</h3>
 
 - 🌱 I’m currently learning **https://flutter.dev/**
 
